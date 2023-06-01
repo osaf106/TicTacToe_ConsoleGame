@@ -3,8 +3,7 @@ A simple tic tac toe app, to illustrate the use of MVC, MVP, and MVVM architectu
 
 The master branch contains just the model - The brains & state of the tic tac toe game.
 
-Other branches contain the model, plus a User Interface following:
+#ScreenShot
+![image](https://github.com/osaf106/TicTacToe_ConsoleGame/assets/84909068/8deed39b-a534-407c-b75f-abd2e1d5c997)
+![image](https://github.com/osaf106/TicTacToe_ConsoleGame/assets/84909068/acec508b-0e91-4268-8999-7cd96a2447fa)
 
-mvc - Is an example of using Model View Controller to model the UI / Model Interaction.
-mvp - Example of Model View Presenter
-mvvm - Example of Model View ViewModel with Databinding
